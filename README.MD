@@ -1,3 +1,3 @@
 ## UML Class Diagram
 
-![alt text](/path/to/PetClinic.png)
+![alt text](PetClinic.png)
