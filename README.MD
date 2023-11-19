@@ -1,14 +1,14 @@
 ## Problem Scenario
-Implement factory design pattern using Pet as the factory interface. The interface implements two methods: makeSound() and play().
+Implement factory design pattern using Movie watching as the factory interface. The interface implements two methods: Title() and duration().
 
-Dog and Cat are concrete objects that implements Pet interface.
+ComedyMovie and ActionMovie are concrete objects that implements Movie interface.
 
-PetRecord holds attributes such as petId, petName, and Pet.
+MovieClass holds attributes such as MovieID and MovieType.
 
-Clinic would be the client object.
+Cinema would be the client object.
 
 Refer to the UML Class Diagram
 
 ## UML Class Diagram
 
-![alt text](petclinicproj.png)
+![alt text](movie.png)
