@@ -11,4 +11,4 @@ Refer to the UML Class Diagram
 
 ## UML Class Diagram
 
-![alt text](movie.png)
+![alt text](Movie.png)
